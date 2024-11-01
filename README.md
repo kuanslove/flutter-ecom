@@ -1,6 +1,6 @@
 # Flutter Demo Ecommerce App
 
-A Demo Flutter shopping app project to demo desing and flutter skillstack.
+A Demo Flutter shopping app project for Madarin users to demo desing and flutter skillstack.
 
 
 ![Screenshot 2024-11-01 161326](https://github.com/user-attachments/assets/ad6ad467-7396-4b54-9c1a-185b3c61bdd8)
